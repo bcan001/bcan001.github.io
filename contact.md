@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you'd like to get in contact with me, please send me an email!
+
+[bcaneba@gmail.com](mailto:bcaneba@gmail.com)
