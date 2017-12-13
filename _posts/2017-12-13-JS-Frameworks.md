@@ -1,0 +1,6 @@
+---
+layout: post
+title: JS Frameworks and Vue.js !!!
+---
+
+At work we're looking into using a Javascript framework for a new web application. There were 3 choices that we were considering; React JS, Angular JS, and Vue JS. Our main reasons for going with a Javascript framework were rendering speed and search / sorting functionality. We also wanted to use a framework that had the most flexibility, as we are looking to make incremental components with the JS framework and don't want to get tied down immediately down one path. We ultimately decided to go with Vue JS for a few reasons. First of all, it is very flexible and allows a lot of customization, while still maintaining structure. It's been very easy to implement searching, sorting, and pagination without it being cumbersome to write. Many of the methods I've written so far are in raw javascript, which I am most familiar with. Vue JS also seems much easier to get started right away with. React has a very steep learning curve, and Angular is too much of a packaged product for us to customize. The greatest part about choosing Vue JS is that should we choose to use another JS framework in the future, it will be easy to transition from Vue because of how elegant the components are :)
