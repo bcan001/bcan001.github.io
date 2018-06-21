@@ -13,9 +13,10 @@ Minor : Economics
 
 Technical Skills
 
-Languages : Ruby, Python, HTML, CSS, JavaScript, Visual Basic
-Frameworks : Ruby on Rails, Sinatra, Meteor.js, Ember.js, Express.js, Angular.js, MVC Architecture
-Database Experience : SQL, SQLite3, MySQL, PostgreSQL, MongoDB, Redis, ActiveRecord ORM, Hadoop
-Development Tools / Libraries : Twitter Bootstrap, AJAX, RSpec, Test Driven Development, Ruby Test Unit and MiniTest, Git Workflow, D3.js, jQuery, Handlebars Templating, Jade Templating, Haml Templating, Node.js, Backgrid.js, Backbone.js
-Deployment : Heroku, Amazon Web Services(RDS and Elastic Beanstalk), MongoDB with MongoLab
-Miscellaneous : Website Scraping (Mechanize, Nokogiri), RESTful API Integration, Data Mining, Data Visualizations, Data Analysis (Python using Numpy and Pandas, Microsoft Excel using Macros and VBA)
+Languages : Ruby, HTML, CSS, JavaScript, Python
+Frameworks : Ruby on Rails, Vue.js, React.js, Angular.js, MVC Architecture
+Database Experience : SQL, SQLite3, MySQL, ActiveRecord ORM, RDBMS schemas (OLTP and OLAP)
+Development Tools / Libraries : Github workflow, Test Driven Development / Behavior Driven Development (RSpec, Capybara, FactoryBot), Frontend JS development tools (yarn, foreman, webpacker), JQuery, Frontend JS Frameworks (Twitter Bootstrap, Foundation)
+Deployment : Capistrano / SSHKit through Github Enterprise
+Miscellaneous : Server managment (Centos / Linux) using Apache Web Server and Phusion Passenger Application Server, ETL (extract,transform,load) data utilities (csv / Kiba gem)
+
