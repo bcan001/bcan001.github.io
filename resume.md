@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-***Education
+####Education
 
 
 School : Michigan State University (East Lansing, MI)
@@ -15,7 +15,7 @@ Minor : Economics
 
 ---
 
-***Technical Skills
+####Technical Skills
 
 
 Languages : Ruby, HTML, CSS, JavaScript, Python
