@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-Education
+***Education
 
 
 School : Michigan State University (East Lansing, MI)
@@ -13,9 +13,9 @@ Major : Applied Engineering Sciences and Supply Chain Management
 
 Minor : Economics
 
+---
 
-
-Technical Skills
+***Technical Skills
 
 
 Languages : Ruby, HTML, CSS, JavaScript, Python
